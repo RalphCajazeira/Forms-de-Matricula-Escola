@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Brand */
+  --brand-light: #f67841;
+  --brand-mid: #f3541c;
+  --brand-dark: #e43a12;
+
+  /* Text */
+  --text-primary: #292524;
+  --text-secondary: #57534e;
+  --text-tertiary: #8f8881;
+  --text-highlight: #e43a12;
+
+  /* Surface */
+  --surface-primary: #ffffff;
+  --surface-secondary: #fee7d6;
+  --surface-disabled: #fee7d6;
+
+  /* Stroke */
+  --stroke-default: #d6d3d1;
+  --stroke-highlight: #f3541c;
+
+  --font-family: "Poppins", serif;
+
+  --text-heading1: bold 2rem/1.2 var(var(--font-family));
+  --text-heading2: bold 1.5rem/1.2 var(var(--font-family));
+  --text-heading3: bold 1.25rem/1.2 var(var(--font-family));
+  --text-heading4: bold 1rem/1.2 var(var(--font-family));
+}
