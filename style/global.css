@@ -32,7 +32,7 @@
   --text-heading3: bold 1.25rem/1.2 var(--font-family);
   --text-heading4: 400 1rem/1.5 var(--font-family);
 
-  /* zoom: 65%; */
+  zoom: 65%;
 }
 
 body {
