@@ -29,10 +29,8 @@
 
   --text-heading1: 600 2.5rem/1.25 var(--font-family);
   --text-heading2: bold 1.5rem/1.2 var(--font-family);
-  --text-heading3: bold 1.25rem/1.2 var(--font-family);
-  --text-heading4: 400 1rem/1.5 var(--font-family);
-
-  zoom: 65%;
+  --text: 400 1rem/1.5 var(--font-family);
+  --text-sm: 400 0.875rem/1.4 var(--font-family);
 }
 
 body {
