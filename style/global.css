@@ -25,6 +25,8 @@
   --stroke-default: #d6d3d1;
   --stroke-highlight: #f3541c;
 
+  --semantic-error: #dc2626;
+
   --font-family: "Poppins", serif;
 
   --text-heading1: 600 2.5rem/1.25 var(--font-family);
